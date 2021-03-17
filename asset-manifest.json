@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "//mirzayevorzu.github.io//react-axios-todoapp/static/css/main.6dea0f05.chunk.css",
-    "main.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/main.9385eea5.chunk.js",
-    "main.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/main.9385eea5.chunk.js.map",
-    "runtime-main.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/runtime-main.25a83ec5.js",
-    "runtime-main.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/runtime-main.25a83ec5.js.map",
-    "static/js/2.1abbc4b5.chunk.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/2.1abbc4b5.chunk.js",
-    "static/js/2.1abbc4b5.chunk.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/2.1abbc4b5.chunk.js.map",
-    "static/js/3.15fba73b.chunk.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/3.15fba73b.chunk.js",
-    "static/js/3.15fba73b.chunk.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/3.15fba73b.chunk.js.map",
+    "main.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/main.42fe89a7.chunk.js",
+    "main.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/main.42fe89a7.chunk.js.map",
+    "runtime-main.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/runtime-main.aeeee6e1.js",
+    "runtime-main.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/runtime-main.aeeee6e1.js.map",
+    "static/js/2.84aa7491.chunk.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/2.84aa7491.chunk.js",
+    "static/js/2.84aa7491.chunk.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/2.84aa7491.chunk.js.map",
+    "static/js/3.c3c8ecf1.chunk.js": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/3.c3c8ecf1.chunk.js",
+    "static/js/3.c3c8ecf1.chunk.js.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/3.c3c8ecf1.chunk.js.map",
     "index.html": "//mirzayevorzu.github.io//react-axios-todoapp/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "//mirzayevorzu.github.io//react-axios-todoapp/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.1abbc4b5.chunk.js.LICENSE.txt": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/2.1abbc4b5.chunk.js.LICENSE.txt"
+    "static/js/2.84aa7491.chunk.js.LICENSE.txt": "//mirzayevorzu.github.io//react-axios-todoapp/static/js/2.84aa7491.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.25a83ec5.js",
-    "static/js/2.1abbc4b5.chunk.js",
+    "static/js/runtime-main.aeeee6e1.js",
+    "static/js/2.84aa7491.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9385eea5.chunk.js"
+    "static/js/main.42fe89a7.chunk.js"
   ]
 }
